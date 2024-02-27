@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Astrolab"
 include(":app")
- 
+include(":astrolab")
